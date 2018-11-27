@@ -1,5 +1,3 @@
-extern crate brdgme_cmd;
-
 use std::env;
 
 use brdgme_cmd::repl;
